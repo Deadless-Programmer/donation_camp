@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "img": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "category": "Electronics",
+    "bg_color": "#D4E7C5",
+    "title": "Smartphone",
+    "title_color": "#33ff8c",
+    "category_color": "#ccffe2",
+    "price": "$499",
+    "description": "A powerful smartphone with advanced features."
+  },
+  {
+    "id": 2,
+    "img": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "category": "Clothing",
+    "bg_color": "#f8b9d8",
+    "title": "Men's T-Shirt",
+    "title_color": "#f174b1",
+    "category_color": "#fcdceb",
+    "price": "$29",
+    "description": "Comfortable and stylish men's t-shirt available in various sizes."
+  },
+  {
+    "id": 3,
+    "img": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "category": "Home Decor",
+    "bg_color": "#abb7d7",
+    "title": "Throw Pillow",
+    "title_color": "#5670b0",
+    "category_color": "#d5dbeb",
+    "price": "$19",
+    "description": "Add a pop of color and comfort to your living space with this throw pillow."
+  },
+  {
+    "id": 4,
+    "img": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "category": "Electronics",
+    "bg_color": "#D4E7C5",
+    "title": "Fantasy Novel",
+    "title_color": "#33ff8c",
+    "category_color": "#ccffe2",
+    "price": "$15",
+    "description": "Embark on an epic adventure with this captivating fantasy novel."
+  },
+  {
+    "id": 5,
+    "img": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "category": "Kitchenware",
+    "bg_color": "#DBE7C9",
+    "title": "Non-Stick Pan",
+    "title_color": "#50623A",
+    "category_color": "#99BC85",
+    "price": "$39",
+    "description": "Cook your favorite meals effortlessly with this non-stick pan."
+  },
+  {
+    "id": 6,
+    "img": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "category": "Electronics",
+    "bg_color": "#D4E7C5",
+    "title": "Yoga Mat",
+    "title_color": "#33ff8c",
+    "category_color": "#ccffe2",
+    "price": "$25",
+    "description": "Stay fit and flexible with this high-quality yoga mat."
+  },
+  {
+    "id": 7,
+    "img": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "category": "Clothing",
+    "bg_color": "#f8b9d8",
+    "title": "Facial Cleanser",
+    "title_color": "#f174b1",
+    "category_color": "#fcdceb",
+    "price": "$12",
+    "description": "Gently cleanse and refresh your skin with this facial cleanser."
+  },
+  {
+    "id": 8,
+    "img": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "category": "Kitchenware",
+    "bg_color": "#DBE7C9",
+    "title": "Remote Control Car",
+    "title_color": "#50623A",
+    "category_color": "#99BC85",
+    "price": "$49",
+    "description": "Have fun with this remote control car for all ages."
+  },
+  {
+    "id": 9,
+    "img": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "category": "Electronics",
+    "bg_color": "#D4E7C5",
+    "title": "Wireless Headphones",
+    "title_color": "#33ff8c",
+    "category_color": "#ccffe2",
+    "price": "$99",
+    "description": "Experience superior sound quality with these wireless headphones."
+  },
+  {
+    "id": 10,
+    "img": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "category": "Home Decor",
+    "bg_color": "#abb7d7",
+    "title": "Wall Clock",
+    "title_color": "#5670b0",
+    "category_color": "#d5dbeb",
+    "price": "$29",
+    "description": "Add a touch of elegance to your home with this stylish wall clock."
+  },
+  {
+    "id": 11,
+    "img": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "category": "Clothing",
+    "bg_color": "#f8b9d8",
+    "title": "Women's Dress",
+    "title_color": "#f174b1",
+    "category_color": "#fcdceb",
+    "price": "$39",
+    "description": "Look fabulous in this trendy women's dress for any occasion."
+  },
+  {
+    "id": 12,
+    "img": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "category": "Kitchenware",
+    "bg_color": "#DBE7C9",
+    "title": "Lipstick Set",
+    "title_color": "#50623A",
+    "category_color": "#99BC85",
+    "price": "$25",
+    "description": "Complete your makeup collection with this luxurious lipstick set."
+  },
+  {
+    "id": 13,
+    "img": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "category": "Electronics",
+    "bg_color": "#D4E7C5",
+    "title": "Smartwatch",
+    "title_color": "#33ff8c",
+    "category_color": "#ccffe2",
+    "price": "$199",
+    "description": "Stay connected and track your fitness goals with this smartwatch."
+  },
+  {
+    "id": 14,
+    "img": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "category": "Electronics",
+    "bg_color": "#D4E7C5",
+    "title": "Blender",
+    "title_color": "#33ff8c",
+    "category_color": "#ccffe2",
+    "price": "$59",
+    "description": "Blend delicious smoothies and soups with this powerful blender."
+  },
+  {
+    "id": 15,
+    "img": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "category": "Kitchenware",
+    "bg_color": "#DBE7C9",
+    "title": "Building Blocks",
+    "title_color": "#50623A",
+    "category_color": "#99BC85",
+    "price": "$19",
+    "description": "Spark creativity and imagination with these classic building blocks."
+  }
+]
